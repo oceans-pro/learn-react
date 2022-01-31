@@ -1,0 +1,22 @@
+.nav{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+
+.nav-left, .nav-right{
+    height: 44px;
+    width: 44px;
+    flex-grow: 0;
+}
+.nav-center {
+    flex-grow: 1;
+}
+
+.ui-flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
