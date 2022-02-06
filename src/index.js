@@ -4,7 +4,9 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 // import App from './App';
 // import App from './learn-cpn/App';
-import App from './learn-cpn/插槽';
+// import App from './learn-cpn/插槽';
+// import App from './使用setState/setState不可变的力量';
+import App from './事件总线';
 
 ReactDOM.render(
   <React.StrictMode>
